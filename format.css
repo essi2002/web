@@ -1,0 +1,36 @@
+body {
+    font-size: 20pt;
+    color:black;
+    text-align: left;
+}
+.header{
+    font-size: 30pt;
+    color:black;
+    text-align: center;
+}
+.table{
+    border: black;
+    border-color:black;
+    border-width:5px;
+    border-right-width: 10px;
+    border-left-width: 10px;
+    border-style:solid;
+    text-align: center;
+}
+.paragraph{
+    font-size: 20pt;
+    color:darkred;
+
+    text-align: left;
+}
+.aks{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.sis{
+    font-size: 17pt;
+    color: black;
+    text-align:center
+}
